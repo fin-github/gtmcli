@@ -1,4 +1,8 @@
 {
-"bepinex":
-
+"example":
+    {
+        "name": "example",
+        "description": ".",
+        "github_path": "fin-github/txt-hosting/test.txt"
+    }
 }
