@@ -3,14 +3,14 @@
     {
         "name": "example",
         "description": ".",
-        "github_path": "fin-github/TxtHOSTING/main/test.txt",
+        "dll_link": "fin-github/TxtHOSTING/main/test.txt",
         "deps": []
     }
 "bepinex":
     {
         "name": "BepInEx",
         "description": "The modding framework used for GT",
-        "github_path": "BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip",
+        "dll_link": "BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip",
         "deps": []
     }
 }
