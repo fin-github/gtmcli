@@ -3,6 +3,7 @@
     {
         "name": "example",
         "description": ".",
-        "github_path": "fin-github/txt-hosting/test.txt"
+        "github_path": "fin-github/TxtHOSTING/main/test.txt",
+        "deps": []
     }
 }
