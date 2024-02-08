@@ -5,7 +5,7 @@
         "description": ".",
         "dll_link": "fin-github/TxtHOSTING/main/test.txt",
         "deps": []
-    }
+    },
 "bepinex":
     {
         "name": "BepInEx",
