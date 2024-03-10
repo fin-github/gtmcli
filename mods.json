@@ -3,7 +3,7 @@
     {
         "name": "example",
         "description": ".",
-        "dll_link": "https://raw.githubusercontent.com/fin-github/TxtHOSTING/main/blank.dll",
-        "deps": []
+        "zip_link": "link to zip",
+        "deps": ["dep1name", "dep2name", "dep3name"]
     }
 }
