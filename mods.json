@@ -4,6 +4,6 @@
         "name": "example",
         "description": ".",
         "zip_link": "link to zip",
-        "dependenciess": ["dep1name", "dep2name", "dep3name"]
+        "dependencies": ["dep1name", "dep2name", "dep3name"]
     }
 }
