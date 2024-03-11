@@ -3,7 +3,7 @@
     {
         "name": "example",
         "description": ".",
-        "zip_link": "link to zip",
+        "zip_link": "https://github.com/fin-github/gtmcli/raw/main/gtmcli_example_mod.zip",
         "dependencies": ["dep1name", "dep2name", "dep3name"]
     }
 }
